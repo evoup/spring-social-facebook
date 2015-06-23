@@ -9,7 +9,7 @@ import org.springframework.social.facebook.api.ads.Targeting;
 import java.io.IOException;
 
 /**
- * @author Sebastian Górecki
+ * @author Sebastian GÃ³recki
  */
 public class TargetingSerializer extends JsonSerializer<Targeting> {
 	@Override

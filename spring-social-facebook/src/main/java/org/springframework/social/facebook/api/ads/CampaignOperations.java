@@ -9,7 +9,7 @@ import org.springframework.social.facebook.api.PagedList;
 /**
  * Defines operations for working with Facebook Ad Campaign object.
  *
- * @author Sebastian Górecki
+ * @author Sebastian GÃ³recki
  */
 public interface CampaignOperations {
 

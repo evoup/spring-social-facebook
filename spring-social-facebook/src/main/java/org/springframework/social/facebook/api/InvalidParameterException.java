@@ -5,7 +5,7 @@ import org.springframework.social.ApiException;
 /**
  * Exception thrown when one of the supplied parameters is invalid.
  *
- * @author Sebastian Górecki
+ * @author Sebastian GÃ³recki
  */
 public class InvalidParameterException extends ApiException {
 

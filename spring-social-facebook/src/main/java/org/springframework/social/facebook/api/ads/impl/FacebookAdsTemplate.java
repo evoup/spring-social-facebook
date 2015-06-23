@@ -8,7 +8,7 @@ import org.springframework.social.facebook.api.impl.FacebookTemplate;
 /**
  * This is the central class for interacting with Facebook Marketing API.
  *
- * @author Sebastian Górecki
+ * @author Sebastian GÃ³recki
  */
 public class FacebookAdsTemplate extends FacebookTemplate implements FacebookAds {
 

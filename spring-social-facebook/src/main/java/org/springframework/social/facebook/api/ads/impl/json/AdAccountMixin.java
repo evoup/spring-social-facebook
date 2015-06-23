@@ -26,7 +26,7 @@ import java.util.*;
 /**
  * Annotated mixin to add Jackson annotations to AdAccount.
  *
- * @author Sebastian Górecki
+ * @author Sebastian GÃ³recki
  */
 @JsonIgnoreProperties(ignoreUnknown = true)
 public abstract class AdAccountMixin extends FacebookObjectMixin {

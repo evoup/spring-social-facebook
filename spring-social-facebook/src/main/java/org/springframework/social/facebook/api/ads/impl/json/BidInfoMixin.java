@@ -4,7 +4,7 @@ import com.fasterxml.jackson.annotation.JsonIgnoreProperties;
 import org.springframework.social.facebook.api.impl.json.FacebookObjectMixin;
 
 /**
- * @author Sebastian Górecki
+ * @author Sebastian GÃ³recki
  */
 @JsonIgnoreProperties(ignoreUnknown = true)
 public abstract class BidInfoMixin extends FacebookObjectMixin {

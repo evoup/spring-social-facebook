@@ -10,7 +10,7 @@ import org.springframework.util.MultiValueMap;
 import org.springframework.web.client.RestTemplate;
 
 /**
- * @author Sebastian Górecki
+ * @author Sebastian GÃ³recki
  */
 public class CampaignTemplate extends AbstractFacebookOperations implements CampaignOperations {
 

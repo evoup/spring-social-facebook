@@ -6,7 +6,7 @@ import org.springframework.social.facebook.api.ads.impl.FacebookAdsTemplate;
  * Interface specifying a basic set of operations for interacting with Facebook Marketing API.
  * Implemented by {@link FacebookAdsTemplate}.
  *
- * @author Sebastian Górecki
+ * @author Sebastian GÃ³recki
  */
 public interface FacebookAds {
 	AccountOperations accountOperations();

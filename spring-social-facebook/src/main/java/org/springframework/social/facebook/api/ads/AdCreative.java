@@ -3,7 +3,7 @@ package org.springframework.social.facebook.api.ads;
 import com.fasterxml.jackson.annotation.JsonCreator;
 
 /**
- * @author Sebastian Górecki
+ * @author Sebastian GÃ³recki
  */
 public class AdCreative {
 	private String id;

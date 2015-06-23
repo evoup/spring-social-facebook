@@ -6,7 +6,7 @@ import org.springframework.social.facebook.api.ads.AdCreative;
 import org.springframework.social.facebook.api.impl.json.FacebookObjectMixin;
 
 /**
- * @author Sebastian Górecki
+ * @author Sebastian GÃ³recki
  */
 @JsonIgnoreProperties(ignoreUnknown = true)
 abstract public class AdCreativeMixin extends FacebookObjectMixin {

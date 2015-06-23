@@ -13,7 +13,7 @@ import org.springframework.util.MultiValueMap;
 import org.springframework.web.client.RestTemplate;
 
 /**
- * @author Sebastian Górecki
+ * @author Sebastian GÃ³recki
  */
 public class AdSetTemplate extends AbstractFacebookOperations implements AdSetOperations {
 	private GraphApi graphApi;

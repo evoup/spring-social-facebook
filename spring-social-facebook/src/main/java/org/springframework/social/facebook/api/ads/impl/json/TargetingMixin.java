@@ -24,7 +24,7 @@ import java.util.Collections;
 import java.util.List;
 
 /**
- * @author Sebastian Górecki
+ * @author Sebastian GÃ³recki
  */
 @JsonIgnoreProperties(ignoreUnknown = true)
 @JsonSerialize(using = TargetingSerializer.class)

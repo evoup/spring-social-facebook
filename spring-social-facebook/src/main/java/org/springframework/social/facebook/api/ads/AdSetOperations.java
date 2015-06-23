@@ -8,7 +8,7 @@ import org.springframework.social.facebook.api.PagedList;
 /**
  * Defines operations for working with Facebook Ad set object.
  *
- * @author Sebastian Górecki
+ * @author Sebastian GÃ³recki
  */
 public interface AdSetOperations {
 	static final String[] AD_SET_FIELDS = {

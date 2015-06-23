@@ -3,7 +3,7 @@ package org.springframework.social.facebook.api.ads;
 /**
  * Model class representing an ad insight action.
  *
- * @author Sebastian Górecki
+ * @author Sebastian GÃ³recki
  */
 public class AdInsightAction {
 	private String actionType;

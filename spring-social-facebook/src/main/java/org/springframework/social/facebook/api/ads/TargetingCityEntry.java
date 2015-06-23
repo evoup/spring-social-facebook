@@ -1,7 +1,7 @@
 package org.springframework.social.facebook.api.ads;
 
 /**
- * @author Sebastian Górecki
+ * @author Sebastian GÃ³recki
  */
 public class TargetingCityEntry {
 	private String key;

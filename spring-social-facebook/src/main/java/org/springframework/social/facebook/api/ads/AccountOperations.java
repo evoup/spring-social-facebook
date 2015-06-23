@@ -9,7 +9,7 @@ import org.springframework.social.facebook.api.ads.AdUser.AdUserRole;
 /**
  * Defines operations for working with Facebook Marketing API Ad Account object.
  *
- * @author Sebastian Górecki
+ * @author Sebastian GÃ³recki
  */
 public interface AccountOperations {
 

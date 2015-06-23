@@ -9,7 +9,7 @@ import java.util.Map;
 /**
  * Model class representing an ad account.
  *
- * @author Sebastian Górecki
+ * @author Sebastian GÃ³recki
  */
 public class AdAccount extends FacebookObject {
 	private String id;
